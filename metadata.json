@@ -1,0 +1,7 @@
+{
+  "name": "MuseumRadar: Cultuurwijzer",
+  "description": "Een geavanceerd overzicht van alle musea wereldwijd met een AI-curator voor gepersonaliseerde aanbevelingen.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
